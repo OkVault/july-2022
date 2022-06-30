@@ -1,12 +1,12 @@
 {
-    "name": "Ok.Vault -Day 1- Pass",
-    "description": "Part of OG Pass July for Ok.Vault", 
+    "name": "Ok.Vault -100 Bids- POAP",
+    "description": "Part of July Activity for Ok.Vault", 
     "external_url": "https://ok.gold/", 
-    "image": "https://raw.githubusercontent.com/OkVault/june-2022/main/assets/okVault-June.png",
+    "image": "https://raw.githubusercontent.com/OkVault/july-2022/main/assets/okVault-June.png",
     "attributes": [
       {
-        "trait_type": "Day", 
-        "value": "1"
+        "trait_type": "Bids", 
+        "value": "100"
       },  
       {
         "display_type": "number", 
